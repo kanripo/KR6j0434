@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:27.096085
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:09
 #+TITLE: 說矩里迦龍王像法
 #+PROPERTY: CBETA_ID T21n1207
 #+PROPERTY: ID KR6j0434
