@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:27.096085
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:09
 #+TITLE: 說矩里迦龍王像法
 #+PROPERTY: CBETA_ID T21n1207
 #+PROPERTY: ID KR6j0434
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1207
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0434_T_000-0038a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0434_T_001-0038a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1207¶
-
- 說矩里迦(唐作尊勅)龍王像法¶
+No. 1207¶
+說矩里迦(唐作尊勅)龍王像法¶
 ¶
 
 其形如蛇作雷電之勢。身金色繫如意寶。三¶
